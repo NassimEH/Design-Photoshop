@@ -2,7 +2,7 @@
 
 ## FR : 
 
-Ce projet représente mes efforts créatifs pour concevoir divers designs Adobe sur mon temps libre. Il comprend une variété de créations graphiques telles que des couvertures d'albums, des posters, et des illustrations. Ce dépôt sert de portfolio numérique pour présenter mes compétences en design graphique.
+Ce dépôt représente mes efforts créatifs pour concevoir divers designs Adobe sur mon temps libre. Il comprend une variété de créations graphiques telles que des couvertures d'albums, des posters, et des illustrations. Ce dépôt sert de portfolio numérique pour présenter mes compétences en design graphique.
 
 ### Contenu du Dépôt
 
